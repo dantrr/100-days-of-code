@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Kennedy]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [02 May 2022].
 
 ## Log
 
