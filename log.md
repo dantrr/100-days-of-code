@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 2: May 02, 2022
+
+**Today's Progress**: Made small paycheck calculator, figured out how to turn ints into strings with str()
+
+**Thoughts**: Was a good day, VSCode is fun AF. 
+
+**Link(s) to work**: in github.
+
+### Day 3: 03 May 2022
