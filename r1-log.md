@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Kennedy]
 
-The log of my #100DaysOfCode challenge. Started on [02 May 2022].
+The log of my #100DaysOfCode challenge. Started on [01 May 2022].
 
 ## Log
 
@@ -12,5 +12,7 @@ Discovered Play.date runs on Lua(or C)
 
 ### R1D3
 Learned Vita, PS3, PSP run C++
+Made paycheck calc
 
 ### R1D4
+
