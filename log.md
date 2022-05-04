@@ -26,3 +26,4 @@ Thoughts: Was a fun project, would like to add tax calc, but i dunno how to use 
 Links: on USB
 
 ### Day 3: 04 May 2022
+
