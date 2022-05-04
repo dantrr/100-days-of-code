@@ -1,16 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: 01 May 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Progress on Swift Playgrounds
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Ton of fun.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+On Swift Playgrounds
 
-### Day 2: May 02, 2022
+### Day 2: 02 May 2022
 
 **Today's Progress**: Made small paycheck calculator, figured out how to turn ints into strings with str()
 
@@ -19,3 +18,11 @@
 **Link(s) to work**: in github.
 
 ### Day 3: 03 May 2022
+
+Today's Progress: Updated paycheck calculator to accept user input and prevent unexpected return.
+
+Thoughts: Was a fun project, would like to add tax calc, but i dunno how to use % yet.
+
+Links: on USB
+
+### Day 3: 04 May 2022
