@@ -11,7 +11,7 @@ Python learning, figured out how text editors work and IDEs.
 Discovered Play.date runs on Lua(or C)
 
 ### R1D3
-Learned Vita, PS3, PSP run C++
+Learned that Vita, PS3, PSP run C++
 Made paycheck calc
 learned functions, and return in py
 
@@ -19,3 +19,6 @@ learned functions, and return in py
 Sick.
 
 ### R1D5
+JS and operators in Swift 
+
+### R1D6
