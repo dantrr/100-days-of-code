@@ -26,4 +26,26 @@ Thoughts: Was a fun project, would like to add tax calc, but i dunno how to use 
 Links: on USB
 
 ### Day 3: 04 May 2022
+Today's Progress: learned about functions in python: def, as well as return.
+
+Thoughts: This is almost like learning another verbal language, so difficult but it feels great to learn osmething new. 
+
+Links: on usb
+
+### Day 4: 05 May 2022
+Sick with flu, skipped day.
+
+### Day 5: 06 May 2022
+Today's Progress: learned some javascript on khan academy, as well as not(!) operators, OR(||), and(&&) on Swift playgrounds.
+
+Thoughts: i beat a tough puzzle on swift playgrounds, and it was fun learning a little js. 
+
+Links: web or swift
+
+### Day 6: 07 May 2022
+Today's Progress: 
+
+Thoughts: 
+
+Links: 
 

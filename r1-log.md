@@ -13,8 +13,9 @@ Discovered Play.date runs on Lua(or C)
 ### R1D3
 Learned Vita, PS3, PSP run C++
 Made paycheck calc
+learned functions, and return in py
 
 ### R1D4
-
+Sick.
 
 ### R1D5
