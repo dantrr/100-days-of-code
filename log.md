@@ -43,7 +43,7 @@ Thoughts: i beat a tough puzzle on swift playgrounds, and it was fun learning a 
 Links: web or swift
 
 ### Day 6: 07 May 2022
-Today's Progress: 
+Today's Progress: learned rect function in js, a line function, as well as ellipse. Also while loops on fCC, and breaks. 
 
 Thoughts: 
 

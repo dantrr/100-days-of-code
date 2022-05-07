@@ -21,4 +21,5 @@ Sick.
 ### R1D5
 JS and operators in Swift 
 
-### R1D6
+### R1D6 07-May-2022
+while loops, break in py, ellipse, rect, and line in JS
