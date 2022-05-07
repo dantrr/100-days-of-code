@@ -43,9 +43,56 @@ Thoughts: i beat a tough puzzle on swift playgrounds, and it was fun learning a 
 Links: web or swift
 
 ### Day 6: 07 May 2022
-Today's Progress: learned rect function in js, a line function, as well as ellipse. Also while loops on fCC, and breaks. 
+Today's Progress: learned rect function in JS, a line function, as well as ellipse. Also while loops on fCC, and breaks. 
+
+Thoughts: line is a weird function, kind of hard to understand
+
+Links: github, or khan academy
+
+### Day 7: 08 May 2022
+
+Today's Progress: 
 
 Thoughts: 
 
 Links: 
 
+### Day 8
+
+Today's Progress: 
+
+Thoughts: 
+
+Links: 
+
+### Day 9
+
+Today's Progress: 
+
+Thoughts: 
+
+Links: 
+
+### Day 10
+
+Today's Progress: 
+
+Thoughts: 
+
+Links: 
+
+### Day 11
+
+Today's Progress: 
+
+Thoughts: 
+
+Links: 
+
+### Day 12
+
+Today's Progress: 
+
+Thoughts: 
+
+Links: 
