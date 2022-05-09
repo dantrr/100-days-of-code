@@ -51,15 +51,15 @@ Links: github, or khan academy
 
 ### Day 7: 08 May 2022
 
-Today's Progress: 
+Today's Progress: sick, but still managed to learn a little about random numbers in python, and how to import modules.
 
-Thoughts: 
+Thoughts: head hurts but was a fun lesson.
 
-Links: 
+Links: Github/ roomSearch.py
 
-### Day 8
+### Day 8: 09 May 2022
 
-Today's Progress: 
+Today's Progress: learned in depth how git works.
 
 Thoughts: 
 
