@@ -23,3 +23,11 @@ JS and operators in Swift
 
 ### R1D6 07-May-2022
 while loops, break in py, ellipse, rect, and line in JS
+
+### R1D7 
+Random number gen in python
+
+### R1D8
+learned git on twilio quest
+
+### R1D9

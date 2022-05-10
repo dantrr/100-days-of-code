@@ -59,19 +59,15 @@ Links: Github/ roomSearch.py
 
 ### Day 8: 09 May 2022
 
-Today's Progress: learned in depth how git works.
+Today's Progress: learned in depth how git works with Twilio Quest.
 
-Thoughts: 
+Thoughts: was fun, excited to learn more, still a bit confused about verbiage, such as pull, clone, push, and fetch.
 
-Links: 
+### Day 9: 10 May 2022
 
-### Day 9
+Today's Progress: learned while loops in swift. also learned a bit more python, esp modulus % to find remainder, / to div, // to div ints only, etc. 
 
-Today's Progress: 
-
-Thoughts: 
-
-Links: 
+Thoughts: tired of being sick when im finally deciding to learn, feels like im being tested lol.
 
 ### Day 10
 
