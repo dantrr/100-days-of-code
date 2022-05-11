@@ -71,7 +71,7 @@ Thoughts: tired of being sick when im finally deciding to learn, feels like im b
 
 ### Day 10
 
-Today's Progress: 
+Today's Progress: learned about fstrings, and more details about functions, also definite loops, and data filtering. Last, I learned more about my toolbox in swift.
 
 Thoughts: 
 

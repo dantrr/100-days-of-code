@@ -31,3 +31,8 @@ Random number gen in python
 learned git on twilio quest
 
 ### R1D9
+learned different operators, such as / div, div int // modulus %, and while loops in swift
+
+### R1D10
+learned fstring and python functions, and definite loops, data filtering, Swift Skillset. 
+
