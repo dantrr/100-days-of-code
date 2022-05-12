@@ -73,13 +73,11 @@ Thoughts: tired of being sick when im finally deciding to learn, feels like im b
 
 Today's Progress: learned about fstrings, and more details about functions, also definite loops, and data filtering. Last, I learned more about my toolbox in swift.
 
-Thoughts: 
-
-Links: 
+Thoughts: learned a ton today, love fstrings so much, makes it so natural and easy.
 
 ### Day 11
 
-Today's Progress: 
+Today's Progress: became a legend with nested loops in swift. 
 
 Thoughts: 
 
