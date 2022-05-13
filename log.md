@@ -77,16 +77,14 @@ Thoughts: learned a ton today, love fstrings so much, makes it so natural and ea
 
 ### Day 11
 
-Today's Progress: became a legend with nested loops in swift. 
+Today's Progress: became a legend with nested loops in swift, also learned indexed strings.
 
-Thoughts: 
-
-Links: 
+Thoughts: my brain melted today, but i figured out better how nested while loops work.
 
 ### Day 12
 
-Today's Progress: 
+Today's Progress: learned string slicing and call functions.
 
-Thoughts: 
+Thoughts: was easier but still a lot of learning.
 
-Links: 
+### Day 13
