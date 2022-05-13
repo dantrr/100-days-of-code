@@ -37,4 +37,9 @@ learned different operators, such as / div, div int // modulus %, and while loop
 learned fstring and python functions, and definite loops, data filtering, Swift Skillset. 
 
 ### R1D11
-nested loops.
+nested loops, and indexed strings.
+
+### R1D12
+string slicing and call functions in py.
+
+### R1D13
