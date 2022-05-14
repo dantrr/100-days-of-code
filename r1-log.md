@@ -42,4 +42,7 @@ nested loops, and indexed strings.
 ### R1D12
 string slicing and call functions in py.
 
-### R1D13
+### R1D13 -14 May 2022
+ASM basics, and Py file handling. 
+
+### R1D14

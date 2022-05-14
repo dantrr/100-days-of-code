@@ -87,4 +87,14 @@ Today's Progress: learned string slicing and call functions.
 
 Thoughts: was easier but still a lot of learning.
 
-### Day 13
+### Day 13 -14 May 2022
+
+Today's Progress: learned some very basics about assembly, and file handling in python.
+
+Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
+
+### Day 14
+
+Today's Progress: 
+
+Thoughts: 
