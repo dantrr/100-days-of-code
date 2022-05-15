@@ -95,9 +95,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 
 ### Day 15
 
-**Today's Progress**: 
+**Today's Progress**: learned about opening files and filtering them in python, which will be useful in programs or making my first to-do list app. 
 
-**Thoughts**:  
+**Thoughts**:  Hoping to learn about adding and changing things so I can work on my first project. 
 
 ### Day 16
 
