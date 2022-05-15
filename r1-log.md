@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Kennedy]
+## 100DaysOfCode Log - Round 1 - [Kennedy]
 
 The log of my #100DaysOfCode challenge. Started on [01 May 2022].
 
@@ -16,10 +16,10 @@ Made paycheck calc
 learned functions, and return in py
 
 ### R1D4
-Sick.
+Missing Log/Sync issue with main log.
 
 ### R1D5
-JS and operators in Swift 
+Sick. 
 
 ### R1D6 07-May-2022
 while loops, break in py, ellipse, rect, and line in JS
@@ -46,3 +46,9 @@ string slicing and call functions in py.
 ASM basics, and Py file handling. 
 
 ### R1D14
+Missing log, behind a day in sync.
+
+### R1D15
+
+
+### R1D16
