@@ -52,3 +52,4 @@ Missing log, behind a day in sync.
 learned about opening files and filtering them in python.
 
 ### R1D16
+started work on minesweeper clone.

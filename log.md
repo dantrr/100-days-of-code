@@ -99,8 +99,8 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 
 **Thoughts**:  Hoping to learn about adding and changing things so I can work on my first project. 
 
-### Day 16
+### Day 16 -16 May 2022
 
-**Today's Progress**: 
+**Today's Progress**: started work on the minesweeper game project. learned that i should master 1 language before moving forward, however C is good to circle back to, perhaps with a print book.
 
-**Thoughts**: 
+**Thoughts**: so much fun, but i spent 30 mins just sizing the window, and it's still not final.
