@@ -104,3 +104,6 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: started work on the minesweeper game project. learned that i should master 1 language before moving forward, however C is good to circle back to, perhaps with a print book.
 
 **Thoughts**: so much fun, but i spent 30 mins just sizing the window, and it's still not final.
+
+### Day 17
+fCC down today, double down tomorrow.
