@@ -58,3 +58,4 @@ started work on minesweeper clone.
 Did some Sololearn lessons to reinforce python principals, made a stack overflow account.
 
 ### R1D18
+learned vim commands and more python in sololearn.

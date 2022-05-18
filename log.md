@@ -111,6 +111,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: Sololearn is so much fun, and I also made a Stack Overflow acct.
 
 ### Day 18
-**Today's Progress**: 
+**Today's Progress**: learned vim commands and more python in sololearn.
 
-**Thoughts**:
+**Thoughts**: vim is so much fun, it's got a learning curve, but manipulating entire lines of code in two keystrokes is very powerful, i dunno why no one includes these commands by default.
+
+### Day 19
+**Today's Progress**:
+
+**Thoughts**: 
