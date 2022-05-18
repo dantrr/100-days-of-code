@@ -55,4 +55,6 @@ learned about opening files and filtering them in python.
 started work on minesweeper clone.
 
 ### R1D17
-fCC down, double down tomorrow. 
+Did some Sololearn lessons to reinforce python principals, made a stack overflow account.
+
+### R1D18

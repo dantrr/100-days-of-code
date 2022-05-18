@@ -106,4 +106,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: so much fun, but i spent 30 mins just sizing the window, and it's still not final.
 
 ### Day 17
-fCC down today, double down tomorrow.
+**Today's Progress**: reinforced current principals using Sololearn
+
+**Thoughts**: Sololearn is so much fun, and I also made a Stack Overflow acct.
+
+### Day 18
+**Today's Progress**: 
+
+**Thoughts**:
