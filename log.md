@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 01 May 2022
-
 **Today's Progress**: Progress on Swift Playgrounds
 
 **Thoughts** Ton of fun.
@@ -10,7 +9,6 @@
 On Swift Playgrounds
 
 ### Day 2: 02 May 2022
-
 **Today's Progress**: Made small paycheck calculator, figured out how to turn ints into strings with str()
 
 **Thoughts**: Was a good day, VSCode is fun AF. 
@@ -18,7 +16,6 @@ On Swift Playgrounds
 **Link(s) to work**: in github.
 
 ### Day 3: 03 May 2022
-
 Today's Progress: Updated paycheck calculator to accept user input and prevent unexpected return.
 
 Thoughts: Was a fun project, would like to add tax calc, but i dunno how to use % yet.
@@ -50,7 +47,6 @@ Thoughts: line is a weird function, kind of hard to understand
 Links: github, or khan academy
 
 ### Day 8: 08 May 2022
-
 Today's Progress: sick, but still managed to learn a little about random numbers in python, and how to import modules.
 
 Thoughts: head hurts but was a fun lesson.
@@ -58,49 +54,41 @@ Thoughts: head hurts but was a fun lesson.
 Links: Github/ roomSearch.py
 
 ### Day 9: 09 May 2022
-
 Today's Progress: learned in depth how git works with Twilio Quest.
 
 Thoughts: was fun, excited to learn more, still a bit confused about verbiage, such as pull, clone, push, and fetch.
 
 ### Day 10: 10 May 2022
-
 Today's Progress: learned while loops in swift. also learned a bit more python, esp modulus % to find remainder, / to div, // to div ints only, etc. 
 
 Thoughts: tired of being sick when im finally deciding to learn, feels like im being tested lol.
 
 ### Day 11
-
 Today's Progress: learned about fstrings, and more details about functions, also definite loops, and data filtering. Last, I learned more about my toolbox in swift.
 
 Thoughts: learned a ton today, love fstrings so much, makes it so natural and easy.
 
 ### Day 12
-
 Today's Progress: became a legend with nested loops in swift, also learned indexed strings.
 
 Thoughts: my brain melted today, but i figured out better how nested while loops work.
 
 ### Day 13
-
 Today's Progress: learned string slicing and call functions.
 
 Thoughts: was easier but still a lot of learning.
 
 ### Day 14 -14 May 2022
-
 Today's Progress: learned some very basics about assembly, and file handling in python.
 
 Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 
 ### Day 15
-
 **Today's Progress**: learned about opening files and filtering them in python, which will be useful in programs or making my first to-do list app. 
 
 **Thoughts**:  Hoping to learn about adding and changing things so I can work on my first project. 
 
 ### Day 16 -16 May 2022
-
 **Today's Progress**: started work on the minesweeper game project. learned that i should master 1 language before moving forward, however C is good to circle back to, perhaps with a print book.
 
 **Thoughts**: so much fun, but i spent 30 mins just sizing the window, and it's still not final.
@@ -116,6 +104,16 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: vim is so much fun, it's got a learning curve, but manipulating entire lines of code in two keystrokes is very powerful, i dunno why no one includes these commands by default.
 
 ### Day 19
-**Today's Progress**:
+**Today's Progress**: did more sololearn to reinforce knowledge. also learned operators hands on.
+
+**Thoughts**: i learned how to avoid more mistakes, so that was the most important thing today. 
+
+### Day 20
+**Today's Progress**: learned about breaks and continues in loops. 
+
+**Thoughts**: i really don't like loops but they're so necessary and good for efficiency. 
+
+### Day 21
+**Today's Progress**: made a BMI calculator and learned lists in python.
 
 **Thoughts**: 

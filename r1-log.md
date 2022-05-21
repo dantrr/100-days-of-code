@@ -59,3 +59,14 @@ Did some Sololearn lessons to reinforce python principals, made a stack overflow
 
 ### R1D18
 learned vim commands and more python in sololearn.
+
+### R1D19
+learned how to fix some mistakes and more operators.
+
+### R1D20
+learned about breaks and continues in loops.
+
+### R1D21
+made bmi calculator and learned lists in py.
+
+### R1D22
