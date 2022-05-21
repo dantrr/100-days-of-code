@@ -116,4 +116,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 ### Day 21
 **Today's Progress**: made a BMI calculator and learned lists in python.
 
+**Thoughts**: lists are kind of a pain, but it was very helpful understanding that i can make a 3d grid essentially.
+
+### Day 22
+**Today's Progress**: 
+
 **Thoughts**: 
