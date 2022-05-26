@@ -70,3 +70,15 @@ learned about breaks and continues in loops.
 made bmi calculator and learned lists in py.
 
 ### R1D22
+string indexing and for loops
+
+### R1D23
+ranges and list slices
+
+### R1D24 
+Made range calculator and weekly hour calculator
+
+### R1D25
+learned functions.
+
+### R1D26

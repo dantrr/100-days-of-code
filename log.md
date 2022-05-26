@@ -116,9 +116,29 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 ### Day 21
 **Today's Progress**: made a BMI calculator and learned lists in python.
 
-**Thoughts**: lists are kind of a pain, but it was very helpful understanding that i can make a 3d grid essentially.
+**Thoughts**: lists are kind of a pain, but it was very helpful understanding that i can make a 2d grid essentially.
 
 ### Day 22
-**Today's Progress**: 
+**Today's Progress**: learned string indexing and for loops refinforcement in python.
+
+**Thoughts**: for loops are very useful for repetition.
+
+### Day 23
+**Today's Progress**: learned ranges and list slicing in python
+
+**Thoughts**: i dont see how list slicing is important yet, but everything has a purpose. at least 2d grids are very good.
+
+### Day 24
+**Today's Progress**: created a range calculator, to sum up all items in a range, and a weekly hour calculator.
+
+**Thoughts**: this day was the most fun so far, and helped make the slow hours go by, as i could see at a glance how much of the week was left. 
+
+### Day 25
+**Today's Progress**: learned what functions are and how they're represented. 
+
+**Thoughts**: this was just a refresher but a good one, i actually learned functions in swift. 
+
+### Day 26
+**Today's Progress**:
 
 **Thoughts**: 
