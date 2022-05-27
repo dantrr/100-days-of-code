@@ -144,7 +144,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is very useful to remove outliers i believe.
 
 ### Day 27 / 27-May-2022
-**Today's Progress**:
+**Today's Progress**: learned string functions such as .format(), .join(), .replace(), .upper(), .lower(), .split(), .startswith(), .endswith()
 
 **Thoughts**: 
 

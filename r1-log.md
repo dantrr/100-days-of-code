@@ -85,7 +85,7 @@ learned functions.
 learned list functions(max, min, .append, .remove)
 
 ### R1D27 / 27-May-2022
-
+learned string functions such as .format(), .join(), .replace(), .upper(), .lower(), .split(), .startswith(), .endswith()
 
 ### R1D28
 
