@@ -82,3 +82,12 @@ Made range calculator and weekly hour calculator
 learned functions.
 
 ### R1D26
+learned list functions(max, min, .append, .remove)
+
+### R1D27 / 27-May-2022
+
+
+### R1D28
+
+
+### R1D29

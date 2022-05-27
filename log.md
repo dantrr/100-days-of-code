@@ -139,6 +139,21 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this was just a refresher but a good one, i actually learned functions in swift. 
 
 ### Day 26
+**Today's Progress**: learned list functions, such as max, min, .append(), .remove(), etc. 
+
+**Thoughts**: this is very useful to remove outliers i believe.
+
+### Day 27 / 27-May-2022
 **Today's Progress**:
+
+**Thoughts**: 
+
+### Day 28
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 29
+**Today's Progress**: 
 
 **Thoughts**: 
