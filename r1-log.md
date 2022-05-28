@@ -88,6 +88,6 @@ learned list functions(max, min, .append, .remove)
 learned string functions such as .format(), .join(), .replace(), .upper(), .lower(), .split(), .startswith(), .endswith(), also learned to define functions. 
 
 ### R1D28
-
+learned function arguments such as defining variables ahead of time.
 
 ### R1D29

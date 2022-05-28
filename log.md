@@ -149,11 +149,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: 
 
 ### Day 28
-**Today's Progress**: 
+**Today's Progress**: learned function arguments such as defining variables ahead of time.
 
-**Thoughts**: 
+**Thoughts**: i can't figure how to use these lol. 
 
 ### Day 29
-**Today's Progress**: 
+**Today's Progress**:
 
 **Thoughts**: 
