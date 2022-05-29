@@ -90,4 +90,14 @@ learned string functions such as .format(), .join(), .replace(), .upper(), .lowe
 ### R1D28
 learned function arguments such as defining variables ahead of time.
 
-### R1D29
+### R1D29 / 29-May-2022
+learned how to open files and count lines in py.
+
+### R1D30
+
+
+### R1D31
+
+
+### R1D32
+

@@ -153,7 +153,22 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 
 **Thoughts**: i can't figure how to use these lol. 
 
-### Day 29
+### Day 29 / 29-May-2022
+**Today's Progress**: learned how to open files and count lines in py. 
+
+**Thoughts**: this will be useful in making save files possibly. 
+
+### Day 30
+**Today's Progress**:
+
+**Thoughts**: 
+
+### Day 31
+**Today's Progress**:
+
+**Thoughts**: 
+
+### Day 32
 **Today's Progress**:
 
 **Thoughts**: 
