@@ -164,11 +164,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is handy, but i can't see myself using it over a comment.
 
 ### Day 31
-**Today's Progress**:
+**Today's Progress**: learned a ton of C++, which is similar to how learning C# in college was, but this is a bit tougher and less like java lol.
 
-**Thoughts**: 
+**Thoughts**: some of the syntax is a pain in the keister, so much to remember, python is so easy. cpp is like "cout, cin, std, namespace, #include, ;, return 0", and then some.
 
-### Day 32
+### Day 32 //01-June-2022
 **Today's Progress**:
 
 **Thoughts**: 

@@ -97,7 +97,7 @@ learned how to open files and count lines in py.
 learned docstrings in py and got my beginner python certificate.
 
 ### R1D31
+learned some C++ on SoloLearn.
 
-
-### R1D32
+### R1D32 //01-June-2022
 
