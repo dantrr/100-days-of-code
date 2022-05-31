@@ -8,10 +8,7 @@ int main() {
 
 std::cout << "Hello World!";
 // ; needed to end a line, std:cout is == print in Py, << needed followed by string: " "
-
-
-
-
+// std stands for standard and cout is character output.
 
 }
 
