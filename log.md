@@ -159,9 +159,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this will be useful in making save files possibly. 
 
 ### Day 30
-**Today's Progress**:
+**Today's Progress**: learned about docstrings in py, and how they're used to leave comments in functions. Also earned by Sololearn beginner Python certificate. 
 
-**Thoughts**: 
+**Thoughts**: this is handy, but i can't see myself using it over a comment.
 
 ### Day 31
 **Today's Progress**:

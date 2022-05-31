@@ -94,7 +94,7 @@ learned function arguments such as defining variables ahead of time.
 learned how to open files and count lines in py.
 
 ### R1D30
-
+learned docstrings in py and got my beginner python certificate.
 
 ### R1D31
 
