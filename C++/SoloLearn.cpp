@@ -11,7 +11,7 @@ int main(){
     cout << sum;
     return 0; // i dunno what this is for, but solo learn uses at the end of each program
 }
-
+// auto automatically detects variable type. example // auto a = 12
 
 /* multi line comments are
 made
