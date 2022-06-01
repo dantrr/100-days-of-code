@@ -100,4 +100,9 @@ learned docstrings in py and got my beginner python certificate.
 learned some C++ on SoloLearn.
 
 ### R1D32 //01-June-2022
+learned lists in py. 
 
+### R1D33
+
+
+### R1D34

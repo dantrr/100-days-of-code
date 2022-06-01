@@ -169,6 +169,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: some of the syntax is a pain in the keister, so much to remember, python is so easy. cpp is like "cout, cin, std, namespace, #include, ;, return 0", and then some.
 
 ### Day 32 //01-June-2022
+**Today's Progress**: learned lists in python.
+
+**Thoughts**: it's cool how strings aren't directly editable, yet lists(arrays) are.
+
+### Day 33
 **Today's Progress**:
 
 **Thoughts**: 
