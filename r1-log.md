@@ -103,6 +103,12 @@ learned some C++ on SoloLearn.
 learned lists in py. 
 
 ### R1D33
-
+refresher on manipulating lists in py. 
 
 ### R1D34
+
+
+### R1D35
+
+
+### 

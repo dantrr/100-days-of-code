@@ -174,6 +174,17 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: it's cool how strings aren't directly editable, yet lists(arrays) are.
 
 ### Day 33
+**Today's Progress**: refresher on manipulating lists in python
+
+**Thoughts**: this will be useful for storing data as needing, and i love the sort function especially. 
+
+### Day 34
 **Today's Progress**:
 
 **Thoughts**: 
+
+### Day 35
+**Today's Progress**:
+
+**Thoughts**: 
+
