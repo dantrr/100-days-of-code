@@ -106,9 +106,9 @@ learned lists in py.
 refresher on manipulating lists in py. 
 
 ### R1D34
-
+learned how to split strings into lists. also refreshed myself on the round function.
 
 ### R1D35
 
 
-### 
+### R1D36

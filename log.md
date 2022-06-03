@@ -179,12 +179,16 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this will be useful for storing data as needing, and i love the sort function especially. 
 
 ### Day 34
-**Today's Progress**:
+**Today's Progress**: learned how to split strings into lists. also refreshed myself on round function, there is no .round, just var = round(item, round #)
 
-**Thoughts**: 
+**Thoughts**: i dont see the practical use in my case, but it's good to know i guess.
 
 ### Day 35
 **Today's Progress**:
 
 **Thoughts**: 
 
+### Day 36
+**Today's Progress**:
+
+**Thoughts**: 
