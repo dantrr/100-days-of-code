@@ -112,7 +112,9 @@ learned how to split strings into lists. also refreshed myself on the round func
 learned dictionaries in py. 
 
 ### R1D36
-
+learned more dictionary applications. 
 
 ### R1D37
 
+
+### R1D38

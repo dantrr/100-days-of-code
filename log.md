@@ -189,11 +189,14 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is extremely handy as it's like having a mini database.
 
 ### Day 36
+**Today's Progress**: learned more dictionary applications. 
+
+### Day 37
 **Today's Progress**:
 
 **Thoughts**: 
 
-### Day 37
+### Day 38
 **Today's Progress**:
 
 **Thoughts**: 
