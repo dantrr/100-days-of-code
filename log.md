@@ -192,11 +192,14 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned more dictionary applications. 
 
 ### Day 37
+**Today's Progress**: learned about looping through dictionaries. 
+
+### Day 38
 **Today's Progress**:
 
 **Thoughts**: 
 
-### Day 38
+### Day 39
 **Today's Progress**:
 
 **Thoughts**: 

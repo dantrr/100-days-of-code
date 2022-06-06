@@ -115,6 +115,9 @@ learned dictionaries in py.
 learned more dictionary applications. 
 
 ### R1D37
-
+learned about looping through dictionaries. 
 
 ### R1D38
+
+
+### R1D39

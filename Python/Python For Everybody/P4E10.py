@@ -7,4 +7,11 @@ print(counts.get("kris",0))
 
 #since kris is not in counts, it will just print the default listed, 0
 
+# dictionaries and loops. 
 
+# you can run a loop through the dictionary. 
+
+# items() can get both keys and values; i.e. 
+print(counts.keys()) # to print just keys
+print(counts.items())
+ 
