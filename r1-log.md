@@ -127,7 +127,7 @@ started learning game concepts on Zenva, with scratch, such as having sprites mo
 refresher on python from Zenva.
 
 ### R1D41 // 10-June-2022
-
+learned about tkinter on python through Zenva. 
 
 ### R1D42 // 11-June-2022 *goal* *delete this*
 

@@ -206,9 +206,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: refresher on python from Zenva.
 
 ### Day 41 10-June-2022
-**Today's Progress**:
+**Today's Progress**: learned about tkinter on python through Zenva. 
 
-**Thoughts**:
+**Thoughts**: very excited to make my first minesweeper clone/and to-do list app.
 
 ### Day 42 11-June-2022
 **Today's Progress**:
