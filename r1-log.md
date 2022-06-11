@@ -117,7 +117,22 @@ learned more dictionary applications.
 ### R1D37
 learned about looping through dictionaries. 
 
-### R1D38
+### R1D38 // 07-June-2022
 
 
-### R1D39
+### R1D39 // 08-June-2022
+
+
+### R1D40 // 09-June-2022
+
+
+### R1D41 // 10-June-2022
+
+
+### R1D42 // 11-June-2022
+
+
+### R1D43 // 12-June-2022
+
+
+### R1D44 // 13 June-2022

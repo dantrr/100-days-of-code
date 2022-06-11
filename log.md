@@ -183,7 +183,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 
 **Thoughts**: i dont see the practical use in my case, but it's good to know i guess.
 
-### Day 35 // 4 June-2022
+### Day 35 // 04-June-2022
 **Today's Progress**: learned about dictionaries in python, and how they are similar to lists but without indexes exactly.
 
 **Thoughts**: this is extremely handy as it's like having a mini database.
@@ -194,12 +194,32 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 ### Day 37
 **Today's Progress**: learned about looping through dictionaries. 
 
-### Day 38
+### Day 38 // 07-June-2022
 **Today's Progress**:
 
 **Thoughts**: 
 
-### Day 39
+### Day 39 08-June-2022
 **Today's Progress**:
 
 **Thoughts**: 
+
+### Day 40 09-June-2022
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 41 10-June-2022
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 42 11-June-2022
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 43 12-June-2022
+**Today's Progress**:
+
+**Thoughts**:
