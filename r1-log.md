@@ -124,7 +124,7 @@ learned how to add sprites in scratch, and how to create my first algorithm.
 started learning game concepts on Zenva, with scratch, such as having sprites move.
 
 ### R1D40 // 09-June-2022
-
+refresher on python from Zenva.
 
 ### R1D41 // 10-June-2022
 

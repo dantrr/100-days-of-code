@@ -203,9 +203,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: started learning game concepts on Zenva, with scratch, such as having sprites move.
 
 ### Day 40 09-June-2022
-**Today's Progress**:
-
-**Thoughts**:
+**Today's Progress**: refresher on python from Zenva.
 
 ### Day 41 10-June-2022
 **Today's Progress**:
