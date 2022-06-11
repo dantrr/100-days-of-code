@@ -211,9 +211,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: very excited to make my first minesweeper clone/and to-do list app.
 
 ### Day 42 11-June-2022
-**Today's Progress**:
+**Today's Progress**: learned how to make a tkinter window, essentially a GUI python program.
 
-**Thoughts**:
+**Thoughts**: this is the most indepth so far, but i love learning about python. C++ will be killer though. 
 
 ### Day 43 12-June-2022
 **Today's Progress**:

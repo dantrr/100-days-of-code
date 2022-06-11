@@ -129,8 +129,8 @@ refresher on python from Zenva.
 ### R1D41 // 10-June-2022
 learned about tkinter on python through Zenva. 
 
-### R1D42 // 11-June-2022 *goal* *delete this*
-
+### R1D42 // 11-June-2022
+learned how to make a tkinter window, essentially a GUI python program.
 
 ### R1D43 // 12-June-2022
 
