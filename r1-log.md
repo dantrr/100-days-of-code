@@ -118,10 +118,10 @@ learned more dictionary applications.
 learned about looping through dictionaries. 
 
 ### R1D38 // 07-June-2022
-
+learned how to add sprites in scratch, and how to create my first algorithm. 
 
 ### R1D39 // 08-June-2022
-
+started learning game concepts on Zenva, with scratch, such as having sprites move.
 
 ### R1D40 // 09-June-2022
 
@@ -129,7 +129,7 @@ learned about looping through dictionaries.
 ### R1D41 // 10-June-2022
 
 
-### R1D42 // 11-June-2022
+### R1D42 // 11-June-2022 *goal* *delete this*
 
 
 ### R1D43 // 12-June-2022

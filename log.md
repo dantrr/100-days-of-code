@@ -195,14 +195,12 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about looping through dictionaries. 
 
 ### Day 38 // 07-June-2022
-**Today's Progress**:
+**Today's Progress**: learned how to add sprites in scratch, and how to create my first algorithm. 
 
-**Thoughts**: 
+**Thoughts**: scratch 2 EZ. 
 
 ### Day 39 08-June-2022
-**Today's Progress**:
-
-**Thoughts**: 
+**Today's Progress**: started learning game concepts on Zenva, with scratch, such as having sprites move.
 
 ### Day 40 09-June-2022
 **Today's Progress**:
