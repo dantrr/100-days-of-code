@@ -133,6 +133,9 @@ learned about tkinter on python through Zenva.
 learned how to make a tkinter window, essentially a GUI python program.
 
 ### R1D43 // 12-June-2022
-
+python refresher from game perspective.
 
 ### R1D44 // 13 June-2022
+
+
+### R1D45 // 14 June-2022

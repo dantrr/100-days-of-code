@@ -216,6 +216,14 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is the most indepth so far, but i love learning about python. C++ will be killer though. 
 
 ### Day 43 12-June-2022
-**Today's Progress**:
+**Today's Progress**: python refresher from game perspective.
+
+### Day 44 13-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day 45 14-June-2022
+**Today's Progress**: 
 
 **Thoughts**:
