@@ -139,7 +139,7 @@ python refresher from game perspective.
 learned about classes and objects in python.
 
 ### R1D45 // 14-June-2022
-
+learned tuples on fCC.
 
 ### R1D46 // 15-June-2022
 

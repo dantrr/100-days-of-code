@@ -216,7 +216,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is the most indepth so far, but i love learning about python. C++ will be killer though. 
 
 ### Day 43 12-June-2022
-**Today's Progress**: python refresher from game perspective.
+**Today's Progress**: python refresher from game perspective. also learned what tuples are. 
 
 ### Day 44 13-June-2022
 **Today's Progress**: learned about classes and objects in python.
@@ -224,9 +224,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: omg, this is insanely fun, and i can already see game concepts at play here.
 
 ### Day 45 14-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned tuples on fCC. 
 
-**Thoughts**:
+**Thoughts**: tuples are weird in that they're immutable, but they make good static references. 
 
 ### Day 46 15-June-2022
 **Today's Progress**: 

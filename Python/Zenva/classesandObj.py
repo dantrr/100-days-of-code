@@ -15,3 +15,6 @@ class gameChar:
         self.pos += by_amount
 
 mainChar = gameChar("Clyde", 5, 400)
+
+mainChar.pos += 1
+
