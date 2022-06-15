@@ -229,9 +229,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: tuples are weird in that they're immutable, but they make good static references. 
 
 ### Day 46 15-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned what a hashmap is, solved 1st leetcode problem with assistance. also learned about labels in tkinter. 
 
-**Thoughts**:
+**Thoughts**: today was a huge busy day, but i loved it, im learning more every day. 
 
 ### Day 47 // 16-June-2022
 **Today's Progress**: 

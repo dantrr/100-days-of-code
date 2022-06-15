@@ -9,6 +9,10 @@ class MyApp:
         root.geometry("500x400")
         root.maxsize(1000,800)
 
+        label = Label(root, text="Some label text")
+        label.pack()
+
+        
 root = Tk()
 MyApp(root)
 root.mainloop()

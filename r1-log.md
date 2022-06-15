@@ -142,7 +142,7 @@ learned about classes and objects in python.
 learned tuples on fCC.
 
 ### R1D46 // 15-June-2022
-
+learned what a hashmap is, solved 1st leetcode problem with assistance. also learned about labels in tkinter. 
 
 ### R1D47 // 16-June-2022
 
