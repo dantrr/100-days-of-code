@@ -135,7 +135,15 @@ learned how to make a tkinter window, essentially a GUI python program.
 ### R1D43 // 12-June-2022
 python refresher from game perspective.
 
-### R1D44 // 13 June-2022
+### R1D44 // 13-June-2022
+learned about classes and objects in python.
+
+### R1D45 // 14-June-2022
 
 
-### R1D45 // 14 June-2022
+### R1D46 // 15-June-2022
+
+
+### R1D47 // 16-June-2022
+
+

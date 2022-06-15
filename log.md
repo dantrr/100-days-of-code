@@ -219,11 +219,22 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: python refresher from game perspective.
 
 ### Day 44 13-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned about classes and objects in python.
 
-**Thoughts**:
+**Thoughts**: omg, this is insanely fun, and i can already see game concepts at play here.
 
 ### Day 45 14-June-2022
 **Today's Progress**: 
 
 **Thoughts**:
+
+### Day 46 15-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day 47 // 16-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
