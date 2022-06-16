@@ -145,5 +145,10 @@ learned tuples on fCC.
 learned what a hashmap is, solved 1st leetcode problem with assistance. also learned about labels in tkinter. 
 
 ### R1D47 // 16-June-2022
+learned about configuring widgets with tkinter in python.
 
+### R1D48 // 17-June-2022
+
+
+### R1D49 // 18-June-2022
 

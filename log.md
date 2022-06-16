@@ -234,7 +234,16 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: today was a huge busy day, but i loved it, im learning more every day. 
 
 ### Day 47 // 16-June-2022
+**Today's Progress**: learned about configuring widgets with tkinter in python.
+
+**Thoughts**: it's all coming together now!
+
+### Day 48 // 17-June-2022
 **Today's Progress**: 
 
 **Thoughts**:
 
+### Day 49 // 18-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
