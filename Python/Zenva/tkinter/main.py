@@ -16,8 +16,13 @@ class MyApp:
         #label["font"] = ("Courier", 40)
         
         label.configure(text="new label text", font=("Courier", 40))
+        entry_text = StringVar()
+        entry = Entry(root, textvariable=entry_text) 
+        entry.pack()
 
-        
+        label["textvariable"] = entry_text      
+
+
 root = Tk()
 MyApp(root)
 root.mainloop()

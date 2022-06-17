@@ -148,7 +148,7 @@ learned what a hashmap is, solved 1st leetcode problem with assistance. also lea
 learned about configuring widgets with tkinter in python.
 
 ### R1D48 // 17-June-2022
-
+learned about Entry widgets in tkinter.
 
 ### R1D49 // 18-June-2022
 

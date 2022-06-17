@@ -239,9 +239,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: it's all coming together now!
 
 ### Day 48 // 17-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned about Entry widgets in tkinter.
 
-**Thoughts**:
+**Thoughts**: i'll be able to make my first gui to-do list app in no time now!
 
 ### Day 49 // 18-June-2022
 **Today's Progress**: 
