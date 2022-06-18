@@ -244,6 +244,16 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i'll be able to make my first gui to-do list app in no time now!
 
 ### Day 49 // 18-June-2022
+**Today's Progress**: learned about buttons in tkinter.
+
+**Thoughts**: im starting to get lost, what's with all the self. ?
+
+### Day 50 // 19-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day 51 // 20-June-2022
 **Today's Progress**: 
 
 **Thoughts**:

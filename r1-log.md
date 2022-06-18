@@ -151,4 +151,7 @@ learned about configuring widgets with tkinter in python.
 learned about Entry widgets in tkinter.
 
 ### R1D49 // 18-June-2022
+learned about buttons in tkinter.
+
+### R1D50 // 19-June-2022
 

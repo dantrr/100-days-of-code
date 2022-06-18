@@ -1,3 +1,14 @@
+/**
+ * @file SoloLearn.cpp
+ * @author Christopher Kennedy (dantrr.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-06-18
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include <iostream>
 using namespace std; 
 //you dont have to declare this namespace, as you can call std before each command such as std::cout
