@@ -154,4 +154,8 @@ learned about Entry widgets in tkinter.
 learned about buttons in tkinter.
 
 ### R1D50 // 19-June-2022
+learned about listbox widgets
+
+
+### R1D51 // 20-June-2022
 

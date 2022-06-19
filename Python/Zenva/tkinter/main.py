@@ -25,12 +25,24 @@ class MyApp:
 
         button = Button(root, text="Save Text", command=self.press_button)
         button.pack()
+        
+        self.listItemStrings = ["Hey", "Hi", "Howdy", "HOWDY BITCH"]
+        listItems = StringVar(value=self.listItemStrings)
+        listbox = Listbox(root, listvariable=listItems)
+        listbox.pack()
+        listbox["height"] = 3
+        listbox.bind("<<ListboxSelect>>", lambda s: self.select_item(listbox.curselection()))
 
 
     def press_button(self):
         print("Button pressed") #this will only print to terminal
         text = self.entry_text.get()
         self.label_text.set(text)
+
+    def select_item(self, index):
+        selected_item = self.listItemStrings[index[0]]
+        print(selected_item)
+
 
 root = Tk()
 MyApp(root)

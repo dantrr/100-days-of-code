@@ -249,9 +249,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: im starting to get lost, what's with all the self. ?
 
 ### Day 50 // 19-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned about listbox widgets
 
-**Thoughts**:
+**Thoughts**: burnt out from work, but lets keep trucking, im closer to that to-do list app lol.
 
 ### Day 51 // 20-June-2022
 **Today's Progress**: 
