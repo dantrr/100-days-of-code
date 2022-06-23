@@ -254,6 +254,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: burnt out from work, but lets keep trucking, im closer to that to-do list app lol.
 
 ### Day 51 // 20-June-2022
+**Today's Progress**: learned about sorting tuples through printing or creating a seperate list. 
+
+### Day 52 // 21-June-2022
 **Today's Progress**: 
 
 **Thoughts**:
