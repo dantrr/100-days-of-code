@@ -257,6 +257,26 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about sorting tuples through printing or creating a seperate list. 
 
 ### Day 52 // 21-June-2022
+**Today's Progress**:  learned about regular expressions in py, and computing in general.
+
+**Thoughts**: lol i will probably never use this, but learning is fun regardless. 
+
+### Day 53 // 22-June-2022
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 54 // 23-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day 55 // 24-June-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day 56 // 25-June-2022
 **Today's Progress**: 
 
 **Thoughts**:

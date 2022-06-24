@@ -160,3 +160,16 @@ learned about listbox widgets
 learned about sorting tuples through printing or creating a seperate list. 
 
 ### R1D52 // 21-June-2022
+learned about regular expressions in py, and computing in general.
+
+### R1D53 // 22-June-2022
+
+
+### R1D54 // 23-June-2022
+
+
+### R1D55 // 24-June-2022
+
+
+### R1D56 // 25-June-2022
+
