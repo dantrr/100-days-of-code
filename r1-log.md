@@ -163,7 +163,7 @@ learned about sorting tuples through printing or creating a seperate list.
 learned about regular expressions in py, and computing in general.
 
 ### R1D53 // 22-June-2022
-
+learned about matching and extracting data with regular expressions.
 
 ### R1D54 // 23-June-2022
 
