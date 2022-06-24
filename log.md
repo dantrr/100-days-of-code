@@ -272,9 +272,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: it's starting to get really complicated, but you never know when you need some esoteric stuff lol. 
 
 ### Day 55 // 24-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned about networking with python
 
-**Thoughts**:
+**Thoughts**: it's crazy how you can connect and open sockets, i never thought in a million years i would understand how to run a small server with py, but i guess that's what raspberry pi's can do.
 
 ### Day 56 // 25-June-2022
 **Today's Progress**: 

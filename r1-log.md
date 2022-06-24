@@ -169,7 +169,7 @@ learned about matching and extracting data with regular expressions.
 learned about more practical applications of regular expressions. 
 
 ### R1D55 // 24-June-2022
-
+learned about networking with python
 
 ### R1D56 // 25-June-2022
 
