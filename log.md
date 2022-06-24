@@ -267,9 +267,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: again, nothing crazy or new, but still learning.
 
 ### Day 54 // 23-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned about more practical applications of regular expressions. 
 
-**Thoughts**:
+**Thoughts**: it's starting to get really complicated, but you never know when you need some esoteric stuff lol. 
 
 ### Day 55 // 24-June-2022
 **Today's Progress**: 

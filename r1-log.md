@@ -166,7 +166,7 @@ learned about regular expressions in py, and computing in general.
 learned about matching and extracting data with regular expressions.
 
 ### R1D54 // 23-June-2022
-
+learned about more practical applications of regular expressions. 
 
 ### R1D55 // 24-June-2022
 

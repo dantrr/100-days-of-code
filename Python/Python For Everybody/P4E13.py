@@ -18,3 +18,5 @@ print(y)
 s = 'A message from csev@umich.edu to cwen@iupui.edu about meeting @2PM'
 lst = re.findall('\\S+@\\S+', s)
 print(lst)
+
+# \$ is a REGEX dollar sign, as $ is sometimes used for other things. 
