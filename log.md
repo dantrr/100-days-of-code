@@ -277,6 +277,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: it's crazy how you can connect and open sockets, i never thought in a million years i would understand how to run a small server with py, but i guess that's what raspberry pi's can do.
 
 ### Day 56 // 25-June-2022
-**Today's Progress**: 
+**Today's Progress**: learned about networking protocol.
+
+**Thoughts**: oh snap, this is getting good, plus we're about to learn how to make a web browser in python(a basic one)
+
+### Day 57 // 26-June-2022
+**Today's Progress**:
 
 **Thoughts**:

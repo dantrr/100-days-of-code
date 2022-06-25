@@ -172,4 +172,7 @@ learned about more practical applications of regular expressions.
 learned about networking with python
 
 ### R1D56 // 25-June-2022
+learned about networking protocol.
+
+### R1D57 // 26-June-2022
 
