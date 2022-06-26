@@ -175,4 +175,7 @@ learned about networking with python
 learned about networking protocol.
 
 ### R1D57 // 26-June-2022
+learned how to make a simple web browser, that does one thing in python. also learned about text standards on the web.
+
+### R1D58 // 27-June-2022
 

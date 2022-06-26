@@ -282,6 +282,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: oh snap, this is getting good, plus we're about to learn how to make a web browser in python(a basic one)
 
 ### Day 57 // 26-June-2022
+**Today's Progress**: learned how to make a simple web browser, that does one thing in python. also learned about text standards on the web.
+
+**Thoughts**: this was a fun little project, and opened my eyes to how simple a web browser can be.
+
+### Day 58 // 27-June-2022
 **Today's Progress**:
 
 **Thoughts**:
