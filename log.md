@@ -287,6 +287,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this was a fun little project, and opened my eyes to how simple a web browser can be.
 
 ### Day 58 // 27-June-2022
+**Today's Progress**: learned about urllib in py.
+
+**Thoughts**: like sockets but less technical, shorter lines of code.
+
+### Day 59 // 28-June-2022
 **Today's Progress**:
 
 **Thoughts**:

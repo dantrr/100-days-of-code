@@ -178,4 +178,6 @@ learned about networking protocol.
 learned how to make a simple web browser, that does one thing in python. also learned about text standards on the web.
 
 ### R1D58 // 27-June-2022
+learned about urllib in py.
 
+### R1D59 // 28-June-2022
