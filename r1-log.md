@@ -184,7 +184,7 @@ learned about urllib in py.
 learned about web scraping using Beautiful Soup
 
 ### R1D60 // 29-June-2022
-
+learned about xml, and a little json
 
 ### R1D61 // 30-June-2022
 

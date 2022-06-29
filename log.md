@@ -297,9 +297,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i may not use this very often, but its still uber-cool.
 
 ### Day 60 // 29-June-2022
-**Today's Progress**:
+**Today's Progress**: learned about xml, and a little json
 
-**Thoughts**:
+**Thoughts**: xml seems like html, but has a lot of rules about what data is stored. 
 
 ### Day 61 // 30-June-2022
 **Today's Progress**:
