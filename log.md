@@ -292,6 +292,21 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: like sockets but less technical, shorter lines of code.
 
 ### Day 59 // 28-June-2022
+**Today's Progress**: learned about web scraping using Beautiful Soup
+
+**Thoughts**: i may not use this very often, but its still uber-cool.
+
+### Day 60 // 29-June-2022
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 61 // 30-June-2022
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 62 // 01-July-2022
 **Today's Progress**:
 
 **Thoughts**:

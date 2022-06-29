@@ -181,3 +181,12 @@ learned how to make a simple web browser, that does one thing in python. also le
 learned about urllib in py.
 
 ### R1D59 // 28-June-2022
+learned about web scraping using Beautiful Soup
+
+### R1D60 // 29-June-2022
+
+
+### R1D61 // 30-June-2022
+
+
+### R1D62 // 01-July-2022
