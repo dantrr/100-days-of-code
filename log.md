@@ -302,11 +302,14 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: xml seems like html, but has a lot of rules about what data is stored. 
 
 ### Day 61 // 30-June-2022
+**Today's Progress**: learned about xml schema and validators.
+
+### Day 62 // 01-July-2022
 **Today's Progress**:
 
 **Thoughts**:
 
-### Day 62 // 01-July-2022
+### Day 63 // 02-July-2022
 **Today's Progress**:
 
 **Thoughts**:

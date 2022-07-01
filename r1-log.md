@@ -187,6 +187,9 @@ learned about web scraping using Beautiful Soup
 learned about xml, and a little json
 
 ### R1D61 // 30-June-2022
-
+learned about xml schema and validators.
 
 ### R1D62 // 01-July-2022
+
+
+### R1D63 // 02-July-2022
