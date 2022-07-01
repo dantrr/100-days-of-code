@@ -305,9 +305,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about xml schema and validators.
 
 ### Day 62 // 01-July-2022
-**Today's Progress**:
+**Today's Progress**: learned about json, or javascript object notation
 
-**Thoughts**:
+**Thoughts**: i could see this being handy for lists and dictionaries, but the syntax seems complicated when used in conjunction with python.
 
 ### Day 63 // 02-July-2022
 **Today's Progress**:
