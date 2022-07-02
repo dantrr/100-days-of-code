@@ -310,6 +310,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i could see this being handy for lists and dictionaries, but the syntax seems complicated when used in conjunction with python.
 
 ### Day 63 // 02-July-2022
+**Today's Progress**: learned about service oriented approach and APIs.
+
+**Thoughts**: APIs will be so much fun, in that we can pull useful data in the background that most basic users cant access by default. 
+
+### Day 64 // 03-July-2022
 **Today's Progress**:
 
 **Thoughts**:

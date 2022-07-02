@@ -7,3 +7,8 @@
 
 #json is javascript object notation, and represents data as nested lists and dictionaries
 
+# service oriented approach: 
+# using multiple programs/services/systems to split problems between two "applications"
+
+# APIs, application program interface
+# allows you to connect to another program using your own program or software, to pull or issue data

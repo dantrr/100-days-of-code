@@ -193,3 +193,6 @@ learned about xml schema and validators.
 learned about json, or javascript object notation
 
 ### R1D63 // 02-July-2022
+learned about service oriented approach and APIs.
+
+### R1D64 // 03-July-2022
