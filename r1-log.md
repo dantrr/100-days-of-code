@@ -196,3 +196,6 @@ learned about json, or javascript object notation
 learned about service oriented approach and APIs.
 
 ### R1D64 // 03-July-2022
+learned about API Rate Limiting and Security.
+
+### R1D65 // 04-July-2022

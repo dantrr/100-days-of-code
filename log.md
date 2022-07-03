@@ -315,6 +315,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: APIs will be so much fun, in that we can pull useful data in the background that most basic users cant access by default. 
 
 ### Day 64 // 03-July-2022
+**Today's Progress**: learned about API Rate Limiting and Security.
+
+### Day 65 // 04-July-2022
 **Today's Progress**:
 
 **Thoughts**:

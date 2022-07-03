@@ -12,3 +12,7 @@
 
 # APIs, application program interface
 # allows you to connect to another program using your own program or software, to pull or issue data
+
+# APIs are not "free"
+# you need a key to access APIs.
+
