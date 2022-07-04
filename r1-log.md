@@ -199,3 +199,6 @@ learned about service oriented approach and APIs.
 learned about API Rate Limiting and Security.
 
 ### R1D65 // 04-July-2022
+learned about objects and classes, also enrolled in computer science class
+
+### R1D66 // 05-July-2022

@@ -318,6 +318,13 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about API Rate Limiting and Security.
 
 ### Day 65 // 04-July-2022
+**Today's Progress**: learned about objects and classes, also enrolled in computer science class
+
+**Thoughts**: Super stoked to learn more about computers and code.
+
+**Where?**: P4E17.py
+
+### Day 66 // 05-July-2022
 **Today's Progress**:
 
 **Thoughts**:
