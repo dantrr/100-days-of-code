@@ -202,3 +202,9 @@ learned about API Rate Limiting and Security.
 learned about objects and classes, also enrolled in computer science class
 
 ### R1D66 // 05-July-2022
+learned how to make a class, and use it.
+
+### R1D67 // 06-July-2022
+
+
+### R1D68 // 07-July-2022

@@ -325,6 +325,16 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Where?**: P4E17.py
 
 ### Day 66 // 05-July-2022
-**Today's Progress**:
+**Today's Progress**: learned how to make a class, and use it.
+
+**Thoughts**: this wasnt the first class i made, but the first one i understood, i cant wait until i start making games or other projects.
+
+### Day 67 // 06-July-2022
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day 68 // 07-July-2022
+**Today's Progress**: 
 
 **Thoughts**:
