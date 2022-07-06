@@ -205,6 +205,6 @@ learned about objects and classes, also enrolled in computer science class
 learned how to make a class, and use it.
 
 ### R1D67 // 06-July-2022
-
+learned more about classes, tomorrow i get to learn about object inheritance.
 
 ### R1D68 // 07-July-2022

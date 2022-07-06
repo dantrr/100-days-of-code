@@ -330,9 +330,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this wasnt the first class i made, but the first one i understood, i cant wait until i start making games or other projects.
 
 ### Day 67 // 06-July-2022
-**Today's Progress**: 
+**Today's Progress**: learned more about classes, tomorrow i get to learn about object inheritance.
 
-**Thoughts**:
+**Thoughts**: really excited for tomorrow, i think i can now make classes on my own, but at this point in time, i dont see what they could be used for other than tkinter.
 
 ### Day 68 // 07-July-2022
 **Today's Progress**: 
