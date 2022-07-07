@@ -48,3 +48,17 @@ b.namey()
 a = NameCaller("Ashlee")
 a.namey()
 b.namey()
+
+#object inheritance
+
+# a subclass can "inherit" capabilities of a class, and extend it into a new class
+
+class footballScore(NameCaller):
+    points = 0
+    def touchdown(self):
+        self.points = self.points + 7
+        self.namey
+        print(f"{self.name} earned {self.points} points!")
+
+f = footballScore("Frank West")
+f.touchdown()

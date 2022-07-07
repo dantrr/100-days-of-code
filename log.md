@@ -335,6 +335,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: really excited for tomorrow, i think i can now make classes on my own, but at this point in time, i dont see what they could be used for other than tkinter.
 
 ### Day 68 // 07-July-2022
+**Today's Progress**: learned about object inheritance and how to extend a class by creating a subclass.
+
+**Thoughts**: wasnt as in depth as i thought, but will be super handy, though i could always just use a regular class i think? then again, subclasses may be handy for games for example.
+
+### Day 69 // 08-July-2022
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 

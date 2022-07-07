@@ -208,3 +208,7 @@ learned how to make a class, and use it.
 learned more about classes, tomorrow i get to learn about object inheritance.
 
 ### R1D68 // 07-July-2022
+learned about object inheritance and how to extend a class by creating a subclass.
+
+### R1D69 // 08-July-2022
+
