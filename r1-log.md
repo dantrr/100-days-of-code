@@ -211,4 +211,6 @@ learned more about classes, tomorrow i get to learn about object inheritance.
 learned about object inheritance and how to extend a class by creating a subclass.
 
 ### R1D69 // 08-July-2022
+learned about databases and SQL.
 
+### R1D70 // 09-July-2022

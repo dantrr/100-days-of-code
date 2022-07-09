@@ -340,6 +340,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: wasnt as in depth as i thought, but will be super handy, though i could always just use a regular class i think? then again, subclasses may be handy for games for example.
 
 ### Day 69 // 08-July-2022
+**Today's Progress**: learned about databases and SQL.
+
+**Thoughts**: could also be used as an unusual save system? or as a work calendar maker?
+
+### Day 70 // 09-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
