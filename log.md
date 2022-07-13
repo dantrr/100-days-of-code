@@ -359,7 +359,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about how to actually connect databases and how to keep track of each key.
 
 ### Day 74 // 13-July-2022
-**Today's Progress**: 
+**Today's Progress**: learned how to join keys in SQL/DBs.
 
 **Thoughts**: 
 

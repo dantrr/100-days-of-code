@@ -226,6 +226,6 @@ learned about using keys in databases.
 learned about how to actually connect databases and how to keep track of each key.
 
 ### R1D74 // 13-July-2022
-
+learned how to join keys in SQL/DBs.
 
 ### R1D75 // 14-July-2022
