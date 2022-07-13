@@ -353,9 +353,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about relational database design. 
 
 ### Day 72 // 11-July-2022
-**Today's Progress**: 
-
-**Thoughts**: 
+**Today's Progress**: learned about using keys in databases.
 
 ### Day 73 // 12-July-2022
 **Today's Progress**: 
