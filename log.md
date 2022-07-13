@@ -345,6 +345,31 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: could also be used as an unusual save system? or as a work calendar maker?
 
 ### Day 70 // 09-July-2022
+**Today's Progress**: learned how to make a DB with db browser and learned a very minor amount of SQL.
+
+**Thoughts**: I can't wait to use a proper DB without MS Access at work.
+
+### Day 71 // 10-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 72 // 11-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 73 // 12-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 74 // 13-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 75 // 14-July-2022 
 **Today's Progress**: 
 
 **Thoughts**: 

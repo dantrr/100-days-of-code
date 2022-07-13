@@ -214,3 +214,18 @@ learned about object inheritance and how to extend a class by creating a subclas
 learned about databases and SQL.
 
 ### R1D70 // 09-July-2022
+learned how to make a DB with db browser and learned a very minor amount of SQL.
+
+### R1D71 // 10-July-2022
+
+
+### R1D72 // 11-July-2022
+
+
+### R1D73 // 12-July-2022
+
+
+### R1D74 // 13-July-2022
+
+
+### R1D75 // 14-July-2022
