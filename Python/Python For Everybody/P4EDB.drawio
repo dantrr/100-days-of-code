@@ -18,11 +18,23 @@
                 <mxCell id="7" value="Track&lt;br&gt;&lt;br&gt;Rating&lt;br&gt;Len&lt;br&gt;Count&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry width="270" height="110" as="geometry"/>
                 </mxCell>
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="9" value="Album" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="410" y="130" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="Genre" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="200" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="11" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="180" y="270"/>
+                            <mxPoint x="180" y="200"/>
+                            <mxPoint x="455" y="200"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="11" value="Artist" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="30" y="240" width="120" height="60" as="geometry"/>

@@ -223,7 +223,7 @@ learned about relational database design.
 learned about using keys in databases.
 
 ### R1D73 // 12-July-2022
-
+learned about how to actually connect databases and how to keep track of each key.
 
 ### R1D74 // 13-July-2022
 
