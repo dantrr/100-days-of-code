@@ -11,3 +11,9 @@
 # https://sqlitebrowser.org/dl/
 
 # popular uses of SQLite: https://www.sqlite.org/famous.html
+
+# databases are an artform 
+# databases start with a picture, or in our case, a design.io lol
+# only include one copy of a string, anything else should be a relationship
+
+# 

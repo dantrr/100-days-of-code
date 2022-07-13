@@ -217,7 +217,7 @@ learned about databases and SQL.
 learned how to make a DB with db browser and learned a very minor amount of SQL.
 
 ### R1D71 // 10-July-2022
-
+learned about relational database design. 
 
 ### R1D72 // 11-July-2022
 

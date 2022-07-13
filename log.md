@@ -350,9 +350,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: I can't wait to use a proper DB without MS Access at work.
 
 ### Day 71 // 10-July-2022
-**Today's Progress**: 
-
-**Thoughts**: 
+**Today's Progress**: learned about relational database design. 
 
 ### Day 72 // 11-July-2022
 **Today's Progress**: 
