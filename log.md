@@ -361,9 +361,12 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 ### Day 74 // 13-July-2022
 **Today's Progress**: learned how to join keys in SQL/DBs.
 
-**Thoughts**: 
-
 ### Day 75 // 14-July-2022 
+**Today's Progress**: learned about many-to-many database structures. 
+
+**Thoughts**: i still dunno how to save queries on the fly, but then again im used to Access.
+
+### Day 76 // 15-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
