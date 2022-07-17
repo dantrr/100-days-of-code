@@ -232,3 +232,12 @@ learned how to join keys in SQL/DBs.
 learned about many-to-many database structures. 
 
 ### R1D76 // 15-July-2022
+learned about visualizing data in py, and made a diagram.
+
+### R1D77 // 16-July-2022
+learned about page rank and web crawlers. 
+
+### R1D78 // 17-July-2022
+
+
+### R1D79 // 18-July-2022

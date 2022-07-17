@@ -1,4 +1,4 @@
-# databases
+####### databases
 
 # SQL is a programming language
 
@@ -20,3 +20,15 @@
 # once an entry has a key, it holds it for the rest of the database
 # primary keys dont change
 # logical keys can change
+
+###### Visualizing Data with Python
+
+# data is gathered, then the raw data is cleaned, then can be visualized and analyzed.
+
+# personal datamining can be used for research
+# GeoData from google costs $$$ now.
+### example in geoAPI.drawio
+
+
+# webcrawlers basically play the wikipedia game, crawling pages and grabbing links
+# robots.txt communicates with web crawlers

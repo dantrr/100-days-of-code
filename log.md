@@ -367,6 +367,19 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i still dunno how to save queries on the fly, but then again im used to Access.
 
 ### Day 76 // 15-July-2022
+**Today's Progress**: learned about visualizing data in py, and made a diagram.
+
+### Day 77 // 16-July-2022
+**Today's Progress**: learned about page rank and web crawlers. 
+
+**Thoughts**: 
+
+### Day 78 // 17-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 79 // 18-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
