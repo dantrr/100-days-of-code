@@ -372,7 +372,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 ### Day 77 // 16-July-2022
 **Today's Progress**: learned about page rank and web crawlers. 
 
-**Thoughts**: 
+**Thoughts**: this is very cool, but i dont see myself web crawling, but maybe i can use it for research somehow?
 
 ### Day 78 // 17-July-2022
 **Today's Progress**: 
