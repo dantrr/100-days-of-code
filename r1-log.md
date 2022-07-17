@@ -238,6 +238,6 @@ learned about visualizing data in py, and made a diagram.
 learned about page rank and web crawlers. 
 
 ### R1D78 // 17-July-2022
-learned about page rank and web crawlers. 
+learned how to spider around a mailing list, and i made a diagram detailing each task.
 
 ### R1D79 // 18-July-2022

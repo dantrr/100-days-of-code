@@ -375,9 +375,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is very cool, but i dont see myself web crawling, but maybe i can use it for research somehow?
 
 ### Day 78 // 17-July-2022
-**Today's Progress**: 
+**Today's Progress**: learned how to spider around a mailing list, and i made a diagram detailing each task.
 
-**Thoughts**: 
+**Thoughts**: i still dont know how to use python to do SQL, but i'll get there soon, there's only 21 days left in my 100 days, i learned a lot, but also dont know much in general.
 
 ### Day 79 // 18-July-2022
 **Today's Progress**: 

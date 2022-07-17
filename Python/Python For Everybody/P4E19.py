@@ -32,3 +32,12 @@
 
 # webcrawlers basically play the wikipedia game, crawling pages and grabbing links
 # robots.txt communicates with web crawlers
+
+
+
+########### Mailing Lists
+# crawl archive of mailing list
+
+# gmane.org is over 1 gig
+
+# http://mbox.dr-chuck.net/sakai.devel/4/5
