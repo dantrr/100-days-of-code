@@ -380,6 +380,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i still dont know how to use python to do SQL, but i'll get there soon, there's only 21 days left in my 100 days, i learned a lot, but also dont know much in general.
 
 ### Day 79 // 18-July-2022
+**Today's Progress**: learned about numpy_financial for finCalculations.
+
+**Thoughts**: i'm most interested in using this as someone with an interest in finances. 
+
+### Day 80 // 19-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
