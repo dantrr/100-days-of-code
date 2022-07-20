@@ -244,5 +244,6 @@ learned how to spider around a mailing list, and i made a diagram detailing each
 learned about numpy_financial for finCalculations.
 
 ### R1D80 // 19-July-2022
+learned how to calculate mortgages, savings goals, and investment goals using numpy_financial.
 
-
+### R1D81 // 20-July-2022

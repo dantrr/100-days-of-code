@@ -385,6 +385,11 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i'm most interested in using this as someone with an interest in finances. 
 
 ### Day 80 // 19-July-2022
+**Today's Progress**: learned how to calculate mortgages, savings goals, and investment goals using numpy_financial.
+
+**Thoughts**: this is super handy in day to day life or just to do simple investment math.
+
+### Day 81 // 20-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
