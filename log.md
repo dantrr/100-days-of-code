@@ -390,6 +390,14 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this is super handy in day to day life or just to do simple investment math.
 
 ### Day 81 // 20-July-2022
+**Today's Progress**: learned about calculating future and present values as well as monthly loan payments in npf.
+
+### Day 82 // 21-July-2022
+**Today's Progress**: learned about calculating IRR and plotting data on a chart with pyplot.
+
+**Thoughts**: this was super fun, i can make PNGs without any GUI software.
+
+### Day 83 // 22-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 

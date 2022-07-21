@@ -247,3 +247,9 @@ learned about numpy_financial for finCalculations.
 learned how to calculate mortgages, savings goals, and investment goals using numpy_financial.
 
 ### R1D81 // 20-July-2022
+learned about calculating future and present values as well as monthly loan payments in npf.
+
+### R1D82 // 21-July-2022
+learned about calculating IRR and plotting data on a chart with pyplot.
+
+### R1D83 // 22-July-2022
