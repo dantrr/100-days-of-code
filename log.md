@@ -403,9 +403,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**:  this is super handy dandy even for non financial stuff, but i love finances.. so..  
 
 ### Day 84 // 23-July-2022
-**Today's Progress**: 
+**Today's Progress**: learned about yfinance package, and pandas.(specifically series and dataframes in pd.)
 
-**Thoughts**: 
+**Thoughts**: i'm super excited to learn yfinance as i use yahoo finance all the time to quote stocks, so being able to find stock quickly in python will be super useful. also super excited to learn more about pandas as the organization potential is basically endless. 
 
 ### Day 85 // 24-July-2022
 **Today's Progress**: 

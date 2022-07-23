@@ -256,6 +256,6 @@ learned about calculating IRR and plotting data on a chart with pyplot.
 figured out how to actually chart a price with a year, such as the cost of an investment of BTC at a certain point.
 
 ### R1D84 // 23-July-2022
-
+learned about yfinance package, and pandas.(specifically series and dataframes in pd.)
 
 ### R1D85 // 24-July-2022
