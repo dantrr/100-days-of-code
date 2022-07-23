@@ -253,3 +253,9 @@ learned about calculating future and present values as well as monthly loan paym
 learned about calculating IRR and plotting data on a chart with pyplot.
 
 ### R1D83 // 22-July-2022
+figured out how to actually chart a price with a year, such as the cost of an investment of BTC at a certain point.
+
+### R1D84 // 23-July-2022
+
+
+### R1D85 // 24-July-2022

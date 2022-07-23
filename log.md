@@ -398,6 +398,16 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: this was super fun, i can make PNGs without any GUI software.
 
 ### Day 83 // 22-July-2022
+**Today's Progress**: figured out how to actually chart a price with a year, such as the cost of an investment of BTC at a certain point.
+
+**Thoughts**:  this is super handy dandy even for non financial stuff, but i love finances.. so..  
+
+### Day 84 // 23-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 85 // 24-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
