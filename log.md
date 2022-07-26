@@ -408,6 +408,15 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: i'm super excited to learn yfinance as i use yahoo finance all the time to quote stocks, so being able to find stock quickly in python will be super useful. also super excited to learn more about pandas as the organization potential is basically endless. 
 
 ### Day 85 // 24-July-2022
+**Today's Progress**: learned about using pandas to scrape dataFrames, as well as using yfinance to scrape.
+
+### Day 86 // 25-July-2022
+**Today's Progress**: learned about yfinance in depth, such as how to access dividend info and ticker history.
+
+### Day 87 // 26-July-2022
+**Today's Progress**: learned how to plot yfinance info into graphs, since they are already data frames. 
+
+### Day 88 // 27-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
