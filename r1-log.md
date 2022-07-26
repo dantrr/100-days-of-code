@@ -265,6 +265,6 @@ learned about using pandas to scrape dataFrames, as well as using yfinance to sc
 learned about yfinance in depth, such as how to access dividend info and ticker history.
 
 ### R1D87 // 26-July-2022
-
+learned how to plot yfinance info into graphs, since they are already data frames. 
 
 ### R1D88 // 26-July-2022
