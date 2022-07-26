@@ -262,7 +262,7 @@ learned about yfinance package, and pandas.(specifically series and dataframes i
 learned about using pandas to scrape dataFrames, as well as using yfinance to scrape.
 
 ### R1D86 // 25-July-2022
-
+learned about yfinance in depth, such as how to access dividend info and ticker history.
 
 ### R1D87 // 26-July-2022
 
