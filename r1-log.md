@@ -259,3 +259,12 @@ figured out how to actually chart a price with a year, such as the cost of an in
 learned about yfinance package, and pandas.(specifically series and dataframes in pd.)
 
 ### R1D85 // 24-July-2022
+learned about using pandas to scrape dataFrames, as well as using yfinance to scrape.
+
+### R1D86 // 25-July-2022
+
+
+### R1D87 // 26-July-2022
+
+
+### R1D88 // 26-July-2022
