@@ -417,6 +417,12 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned how to plot yfinance info into graphs, since they are already data frames. 
 
 ### Day 88 // 27-July-2022
+**Today's Progress**: learned how to calc cumulative returns, and plot them.
+
+**Thoughts**: these lessons are getting boring, but its mostly financial math opposed to coding so...
+
+### Day 89 // 28-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
+

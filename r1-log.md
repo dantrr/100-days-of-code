@@ -267,4 +267,7 @@ learned about yfinance in depth, such as how to access dividend info and ticker 
 ### R1D87 // 26-July-2022
 learned how to plot yfinance info into graphs, since they are already data frames. 
 
-### R1D88 // 26-July-2022
+### R1D88 // 27-July-2022
+learned how to calc cumulative returns, and plot them.
+
+### R1D89 // 28-July-2022
