@@ -422,7 +422,14 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: these lessons are getting boring, but its mostly financial math opposed to coding so...
 
 ### Day 89 // 28-July-2022
+**Today's Progress**: learned about using yf and pd to calculate and plot stock correlations and analyze portfolios.
+
+### Day 90 // 29-July-2022
 **Today's Progress**: 
 
 **Thoughts**: 
 
+### Day 91 // 30-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
