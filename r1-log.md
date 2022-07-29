@@ -273,7 +273,8 @@ learned how to calc cumulative returns, and plot them.
 ### R1D89 // 28-July-2022
 learned about using yf and pd to calculate and plot stock correlations and analyze portfolios.
 
-### R1D90 // 29-July-2022
+### R1D90 // 29-July-2022   
+learned about porfolio optimization and using numpy random(even though i prefer the "random" package.)
 
 
 ### R1D91 // 30-July-2022

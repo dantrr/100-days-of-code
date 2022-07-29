@@ -425,9 +425,9 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned about using yf and pd to calculate and plot stock correlations and analyze portfolios.
 
 ### Day 90 // 29-July-2022
-**Today's Progress**: 
+**Today's Progress**: learned about porfolio optimization and using numpy random(even though i prefer the "random" package.)
 
-**Thoughts**: 
+**Thoughts**: I'm glad to have my cert in python for finance, but i barely understood the math towards the end there. also done with the bitcoin code repo, so that was lit. 
 
 ### Day 91 // 30-July-2022
 **Today's Progress**: 
