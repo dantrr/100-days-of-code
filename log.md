@@ -433,9 +433,7 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: started on intermediate python, re-familiarized myself with dictionaries. 
 
 ### Day 92 // 31-July-2022
-**Today's Progress**: 
-
-**Thoughts**: 
+**Today's Progress**: re-learned tuples, and tuple unpacking.
 
 ### Day 93 // 01-August-2022
 **Today's Progress**: new month, new language. started learning ruby, which seems as simple as python, but funny syntax.

@@ -280,7 +280,7 @@ learned about porfolio optimization and using numpy random(even though i prefer 
 started on intermediate python, re-familiarized myself with dictionaries. 
 
 ### R1D92 // 31-July-2022
-
+re-learned tuples, and tuple unpacking.
 
 ### R1D93 // 01-August-2022
 
