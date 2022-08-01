@@ -283,6 +283,6 @@ started on intermediate python, re-familiarized myself with dictionaries.
 re-learned tuples, and tuple unpacking.
 
 ### R1D93 // 01-August-2022
-
+new month, new language. started learning ruby, which seems as simple as python, but funny syntax.
 
 ### R1D94 // 02-August-2022
