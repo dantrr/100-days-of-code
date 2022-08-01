@@ -276,5 +276,13 @@ learned about using yf and pd to calculate and plot stock correlations and analy
 ### R1D90 // 29-July-2022   
 learned about porfolio optimization and using numpy random(even though i prefer the "random" package.)
 
-
 ### R1D91 // 30-July-2022
+started on intermediate python, re-familiarized myself with dictionaries. 
+
+### R1D92 // 31-July-2022
+
+
+### R1D93 // 01-August-2022
+
+
+### R1D94 // 02-August-2022

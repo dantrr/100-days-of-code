@@ -430,6 +430,19 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: I'm glad to have my cert in python for finance, but i barely understood the math towards the end there. also done with the bitcoin code repo, so that was lit. 
 
 ### Day 91 // 30-July-2022
+**Today's Progress**: started on intermediate python, re-familiarized myself with dictionaries. 
+
+### Day 92 // 31-July-2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 93 // 01-August-2022
+**Today's Progress**: new month, new language. started learning ruby, which seems as simple as python, but funny syntax.
+
+**Thoughts**: really excited to learn ruby and gain an advantage in college, as i have a ruby class in my last semester of my degree. 
+
+### Day 94 // 02-August-2022
 **Today's Progress**: 
 
 **Thoughts**: 
