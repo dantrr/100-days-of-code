@@ -441,6 +441,33 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Thoughts**: really excited to learn ruby and gain an advantage in college, as i have a ruby class in my last semester of my degree. 
 
 ### Day 94 // 02-August-2022
+**Today's Progress**: learned about variables and math in ruby.
+
+**Thoughts**: dislike division, due to ruby not auto-creating floats, but it is what it is. 
+
+### Day 95 // 03-August-2022
+**Today's Progress**: learned about strings and user input in ruby(puts and gets)
+
+**Thoughts**: syntax is still fun af, but i still dont know what chomp means lol.
+
+### Day 96 // 04-August-2022
+**Today's Progress**: learned bout bools and comparison in ruby.
+
+**Thoughts**: bools are weird here due to truthy and falsey variables.
+
+### Day 97 // 05-August-2022
+**Today's Progress**: learned about if, else, and elsif statements in ruby, as well as unless. 
+
+**Thoughts**: i really like the syntax here compared to python, as it seems more natural to type. 
+
+### Day 98 // 06-August-2022
+**Today's Progress**: learned about logical operators and case statements, as well as while and until loops. 
+
+**Thoughts**: case statements seem fun, but i dont quite know how to apply them yet. 
+### Day 99 // 07-August-2022
+**Today's Progress**: learned ranges and for loops, which is almost the same syntax as swift, just with end line
+
+### Day 100 // 08-August-2022
 **Today's Progress**: 
 
 **Thoughts**: 

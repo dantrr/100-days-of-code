@@ -286,3 +286,22 @@ re-learned tuples, and tuple unpacking.
 new month, new language. started learning ruby, which seems as simple as python, but funny syntax.
 
 ### R1D94 // 02-August-2022
+
+
+### R1D95 // 02-August-2022
+
+
+### R1D96 // 02-August-2022
+
+
+### R1D97 // 02-August-2022
+
+
+### R1D98 // 02-August-2022
+
+
+### R1D99 // 02-August-2022
+
+
+### R1D100 // 02-August-2022
+
