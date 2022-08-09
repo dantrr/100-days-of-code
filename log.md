@@ -468,6 +468,6 @@ Thoughts: assembly seems insanely difficult, and i want a cooler keyboard.
 **Today's Progress**: learned ranges and for loops, which is almost the same syntax as swift, just with end line
 
 ### Day 100 // 08-August-2022
-**Today's Progress**: 
+**Today's Progress**: learned arrays in ruby, and how editable they are, much more than python, even if saying that is a war crime. 
 
-**Thoughts**: 
+**Thoughts**: sad because last day of main log, but will continue round 2 log. 

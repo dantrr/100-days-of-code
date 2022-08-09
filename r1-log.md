@@ -286,22 +286,23 @@ re-learned tuples, and tuple unpacking.
 new month, new language. started learning ruby, which seems as simple as python, but funny syntax.
 
 ### R1D94 // 02-August-2022
-
+learned about variables and math in ruby.
 
 ### R1D95 // 02-August-2022
-
+learned about strings and user input in ruby(puts and gets)
 
 ### R1D96 // 02-August-2022
-
+learned bout bools and comparison in ruby.
 
 ### R1D97 // 02-August-2022
-
+learned about if, else, and elsif statements in ruby, as well as unless. 
 
 ### R1D98 // 02-August-2022
-
+learned about logical operators and case statements, as well as while and until loops. 
 
 ### R1D99 // 02-August-2022
-
+learned ranges and for loops, which is almost the same syntax as swift, just with end line
 
 ### R1D100 // 02-August-2022
+learned arrays in ruby, and how editable they are, much more than python
 
