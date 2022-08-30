@@ -32,3 +32,4 @@ learned about instance methods, accessors, and accessor methods.
 learned class methods, variables, and the to_s method.
 
 ### R2D10 // 18-Aug-2022
+No need to log this stuff anymore, im well on my way.
